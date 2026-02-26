@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#333333",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#D7D7D7",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#4A4A4A",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B31B34",
+            "yellow": "#4A4A4A",
+            "yellow-button": "#B31B34",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#4A4A4A",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#4A4A4A",
+            "providers-back": "#333333",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#333333",
+            "copyright": "#e7e7d5",
+            "starColor": "#B31B34",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3606"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3609",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "PlayNow Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3612",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "PlayNow"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "PlayNow",
+                    "title": "PlayNow: Games, Jackpots, Sports Betting, Fast Payouts",
+                    "description": "Play at PlayNow Casino with slots, table games, progressive jackpots, and sports betting in one account. Enjoy welcome bonuses, join tournaments, and track your progress in your profile. Secure payments, smooth mobile play, and 24\/7 support.",
+                    "canonical": "playnow-casino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3611",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "playnow-casino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3613"
+                },
+                "hero": {
+                    "title": "PlayNow — Slots, Jackpots, Sports & Bonuses",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3614",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3615",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Instant access to hundreds of slots",
+                        "Progressive jackpots with big payouts",
+                        "Generous welcome bonuses to start",
+                        "Regular tournaments with cash prizes",
+                        "Secure payments and fast withdrawals",
+                        "24\/7 support via live chat",
+                        "Smooth play on mobile and desktop"
+                    ],
+                    "advantagesAfterText": "We deliver a comfortable, reliable experience where it’s easy to play and exciting to win. Our casino is designed around fairness, convenience, and entertainment. You pick the games you love, and we provide stability, security, and top-tier support.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "PlayNow App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3616",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "PlayNow App",
+                    "mobileGooglePlayImageTitle": "PlayNow App",
+                    "mobileIosImageTitle": "PlayNow App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About PlayNow",
+                        "description1": "We stand out by bringing casino entertainment and sports betting into one account. We focus on security, clear rules, and a smooth experience across all devices.\n",
+                        "items": [
+                            "Jackpot wins — up to $70,000,000.",
+                            "Sports bonus bets — up to $250.",
+                            "Welcome match bonus — up to $150."
+                        ],
+                        "description2": "PlayNow Casino is where excitement, comfort, and reliability come together in one account. We built the platform so you can move easily between slots, table games, and fast-paced sports betting without losing momentum. Our library features popular slot titles, progressive jackpot games, and classic formats familiar to every player. For those who love the “casino floor” vibe, we develop experiences that feel live and interactive. We refresh the selection regularly so you always have something new to explore.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3617",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Inside PlayNow Casino, you’ll find special events and seasonal activities that turn play into an ongoing adventure. We run tournaments and prize drops where consistency, smart choices, and timing matter alongside luck. New players can start strong with welcome offers designed to introduce top games with extra value. Returning players enjoy a structured rewards experience through our loyalty program with levels, personalized bonuses, and returns on play. We value your time, so we focus on smooth performance and intuitive navigation.\nResponsible play is built in: you can set limits, track time, and use self-control tools whenever you need them. Banking is designed for convenience on deposits and security on withdrawals, keeping your transactions protected and predictable. Support is available via live chat, email, and phone, so help is always within reach. You can play on desktop or mobile while keeping the same features and wallet access. Our goal is for every session at PlayNow Casino to feel enjoyable, confident, and full of winning potential. The result is a complete gaming experience where entertainment, bonuses, and service work together."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "PlayNow : your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlayNow Casino Access Rules & Responsible Play\n<\/h3>\n\n<p>\nWe welcome you with clear rules so every player feels confident and protected. Access to our casino requires age verification and accurate registration details. We use checks that support security and fair play. Account access must be used only by the owner, without sharing credentials with others. We encourage transparent gameplay and recommend setting personal limits for deposits and session time. Gambling should remain entertainment, not a way to earn income. We support mindful play and smart breaks. When needed, you can activate time-outs or self-exclusion tools. We protect our service from fraud and prohibit any attempts to bypass rules. Following these standards helps keep a comfortable, fair environment and trusted winnings for everyone.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess conditions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRegistration with accurate details and identity verification\n\n<\/li>\n            <li>• \nAge confirmation before real-money play\n\n<\/li>\n            <li>• \nPersonal account use without shared access\n\n<\/li>\n            <li>• \nCompliance with game rules and promotion terms\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions:\n\n<\/h4>\n\n <ul>\n            <li>• \nMultiple accounts to repeat welcome bonuses\n\n<\/li>\n            <li>• \nSharing login, password, or payment details\n\n<\/li>\n            <li>• \nAny attempt to exploit vulnerabilities or manipulate outcomes\n\n<\/li>\n            <li>• \nUsing tools that distort proper access validation\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play tools:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSet deposit and time limits in advance\n\n<\/li>\n            <li>• \nUse session reminders and budget control\n\n<\/li>\n            <li>• \nTake breaks after long play or big wins\n\n<\/li>\n            <li>• \nActivate time-out or self-exclusion if needed\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlayNow Casino Security: Licensing, Data Protection & Privacy\n\n<\/h3>\n\n<p>\nWe operate within a regulated framework where transparency and control are the foundation of trust. Our licensing model means game operations follow approved standards, and our platform is maintained within a lawful environment. We uphold fair-play principles and provide clear participation rules. Regulation supports strong player protection and secure financial operations. For you, that means predictable conditions and stable infrastructure.\n\n<\/p>\n<br>\n\n\n<p>\nData protection at PlayNow Casino is built with a banking-style approach: we reduce risks and safeguard personal information at every step. We use modern cryptographic protocols during data transfer to prevent interception. System access is controlled through layered authorization and continuous monitoring. Internal security procedures help detect suspicious activity quickly. This strengthens the protection of accounts and transactions.\n\n<\/p>\n<br>\n<p>\nEncryption is applied not only at login but across all sensitive actions such as registration, verification, payments, and profile changes. We use secure sessions so your data isn’t exposed even when switching devices. Key actions can require additional checks to reduce the risk of unauthorized access. For you, this means stronger control over your account and funds. We also recommend enabling multi-factor authentication for an added security layer.\n\n<\/p>\n<br>\n<p>\nOur privacy policy follows a “necessary only” principle: we collect and process data required to run your account, handle payments, and comply with rules. We don’t use personal information beyond stated purposes, and we provide clear settings for notifications and marketing preferences. Access to data is restricted, and actions are logged to support transparency. You can manage key preferences directly in your profile. We want your data to remain under your control.\n\n<\/p>\n<br>\n<p>\nWe maintain a security culture that includes responsible data handling and continuous improvement of protective measures. Our processes include prevention, review routines, and updates aligned with modern security requirements. We actively address phishing and fraud scenarios by promoting safe login habits and verification steps. If unusual activity is detected, we may request extra confirmation to protect your funds. This approach supports confident play and a protected ecosystem for every player.\n\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDeposits & Withdrawals at PlayNow Casino: Methods, Timing & Limits\n<\/h3>\n\n<p> \nWe made deposits and withdrawals convenient and strongly protected so you can focus on playing. Deposits typically arrive quickly and your balance updates without unnecessary waiting. Withdrawals go through an approval step, and once approved we send the payout using your chosen method. For security, we apply identity verification and payment protection so funds reach only the account owner. Transactions run through secure channels, and wallet access is controlled inside your account. We support popular payment methods built for stability and ease of use.\nPayout timing depends on the method and verification status, and we aim to keep it predictable. In most cases, digital methods are faster, while bank-related transactions can require standard processing time from financial institutions. We recommend using consistent payment details for deposits and withdrawals to speed up confirmations. You can track your request status and transaction history inside your account. We also apply limits that support risk management and responsible play.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #4A4A4A;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Interac e‑Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant \/ up to 15 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Online Banking (Bill Payment \/ Online Banking)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–60 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>PayPal<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>BIn‑platform vouchers \/ gift options (if available)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimum withdrawal & limits:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from $10 (method-dependent)\n\n<\/li>\n            <li>• \nDaily maximum: up to $10,000 (may vary by status\/method)\n\n<\/li>\n            <li>• \nMonthly maximum: up to $100,000 (may vary by status\/method)\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlayNow Casino Support: Fast Responses & Real Help\n<\/h3>\n\n<p>\nWe build support around solutions, not scripted replies. Our priority is speed, clarity, and safe communication. Live chat helps in real time—from games and bonuses to payment status updates. Email is ideal when you need to include details or documents. Phone support works best when you want quick step-by-step guidance.\nWe maintain a strong service standard: every conversation aims for a clear outcome and easy instructions. We focus on fast response times so you don’t waste time waiting. We help with account access, security settings, identity verification, and promotion participation. We also explain game rules, bonus crediting, and tournament mechanics. Our team follows a consistent quality approach: polite, confidential, and accurate. We offer multilingual support so you feel comfortable.\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: the fastest way to get help while playing\n\n<\/li>\n            <li>• \nEmail: best for detailed requests and documents\n\n<\/li>\n            <li>• \nPhone: quick assistance and guided steps\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time\n<\/h4>\n\n <ul>\n            <li>• \nChat: usually 1–3 minutes\n\n<\/li>\n            <li>• \nEmail: usually 2–6 hours\n\n<\/li>\n            <li>• \nPhone: help during the call\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSupport languages:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnglish\n\n<\/li>\n            <li>• \nFrench\n\n<\/li>\n            <li>• \nAdditional languages may be available depending on the service version\n<\/li>\n\n        <\/ul><br>\n\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at PlayNow",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlayNow Casino Loyalty Program: Tiers, Bonuses & Benefits\n<\/h3>\n<p>\nOur loyalty program is designed to reward your activity and turn play into even more value. You earn points from casino wagers and eligible promotional activities, then redeem them for bonuses and perks. Enrollment is typically automatic once you create an account and start real-money play. The more consistently you play, the faster your status grows and the more personalized offers you unlock. We keep tiers simple and transparent so you can see progress and benefits upfront.\nRewards include bonus funds, free spins, returns on play, and access to exclusive missions. Higher tiers unlock enhanced offers, stronger redemption value, and priority service. Points are credited clearly, and your history is visible in your profile so you stay in control. We also run “boost” periods where points earn faster in selected game categories. The program balances steady benefits with seasonal surprises so it stays exciting. Your status is maintained, and we offer new ways to level up regularly.\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCreate a PlayNow Casino account\n\n<\/li>\n            <li>• \nVerify age and personal details\n\n<\/li>\n            <li>• \nPlace your first real-money wager\n\n<\/li>\n            <li>• \nAccept the bonus and promotion participation terms\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nStarter (0–999 pts): starter missions, up to $10 intro bonus\n\n<\/li>\n            <li>• \nBronze (1,000–4,999 pts): up to 25 FS, weekly missions\n\n<\/li>\n            <li>• \nSilver (5,000–14,999 pts): up to 3% cashback, redeem up to $50\n\n<\/li>\n            <li>• \nGold (15,000–39,999 pts): up to 5% cashback, offers up to $150\n\n<\/li>\n\t    <li>• \nPlatinum (40,000+ pts): up to 10% cashback, priority support, gifts up to $300\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll loyalty bonuses available:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCashback: up to 10% on net play — returns value to you\n\n<\/li>\n            <li>• \nFree Spins: up to 100 FS during promo weeks — for top slots\n\n<\/li>\n            <li>• \nPoints redemption: up to $300 bonus — flexible use\n\n<\/li>\n            <li>• \nWeekly missions: rewards up to $50 — simple goals, steady value\n\n<\/li>\n\t    <li>• \nBirthday gift: up to $200 — a special celebration bonus\n\n<\/li>\n\t    <li>• \nPoints boost: x2 points on selected days — faster tier progress\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlayNow Casino Bonuses & Promotions: Offers, Wins & Seasonal Events\n<\/h3>\n\n<p>\nWe keep bonuses at the heart of everyday fun, so there’s always a reason to jump in and play. To help you start strong, we offer welcome options so you can choose the style that fits you best. In our slots section, you’ll often find free spins tied to hit titles and new releases, making discovery more rewarding. We run prize events where rewards are distributed through leaderboards and surprise draws. We also highlight jackpot mechanics and “prize drops” that can trigger at any moment and amplify excitement.\nSeasonal campaigns are built around holidays, major sports moments, and themed weeks—giving you extra rewards for the play you already enjoy. We launch challenges with simple goals like a certain number of spins, wagers, or active days. For sports fans, we provide bonus bets and event-based promos that add value to popular matches. At times, we introduce daily missions that let you stack rewards and grow the final bonus. We keep goals clear and conditions transparent so you always know what you’re earning.\nWins aren’t boosted only by bonuses but also by tournament formats: weekend sprints, weekly marathons, and themed leaderboards. Prizes can come as bonus funds, free spins, or real-money credits depending on the event mechanics. We refresh promotions regularly—from “happy hours” to big seasonal finals—so you always have something new to chase. All active offers are visible in your account, and progress tracking helps you plan your play.\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses & special offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome match bonus: up to $150 — boosts your starting bankroll\n\n<\/li>\n            <li>• \nSports bonus bets: up to $250 — extra value for early wagers\n\n<\/li>\n            <li>• \nSlot free spins: up to 100 FS — on selected popular games\n\n<\/li>\n            <li>• \nMystery Jackpots\/prize drops: up to $88,000 — surprise win moments\n\n<\/li>\n\t    <li>• \nWeekly slot tournaments: prizes up to $5,000 — place-based rewards\n\n<\/li>\n\t    <li>• \nWeekend sprints: rewards up to $1,000 — short events for everyone\n\n<\/li>\n\t    <li>• \nSeasonal campaigns: prizes up to $10,000 — themed prize pools\n\n<\/li>\n\t    <li>• \nDaily missions: up to $25 bonus — quick tasks for rewards\n\n<\/li>\n\t    <li>• \nReload offers: up to 25% deposit boost — timely extra play value\n\n<\/li>\n\t    <li>• \nCombo promos: slot + sports up to $50 — bonus for cross-play\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames & Betting at PlayNow Casino: Slots, Tables, Live Styles & Sports\n<\/h3>\n\n<p>\nWe bring multiple game categories together so you can match your mood to every session. Our slots range from classic reels to modern mechanics with bonus rounds and multipliers. For strategic players, we offer table games with different rule variants and betting limits. If you want a real casino vibe, choose interactive, live-feel formats and engaging features. We also highlight progressive jackpots, where a single lucky spin can lead to a major win.\nFor fans of events and odds, we offer sports betting with both pre-match and live options. We cover popular sports and a wide range of markets, so you can build singles, parlays, and combined bets. For a calmer pace, you can enjoy bingo, keno, and quick games where results arrive within minutes. We refresh the catalog regularly with new releases and themed collections. The result is a unified experience where games, betting, and bonuses work together in one ecosystem.\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick list of games & sections:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classic, video slots, Megaways styles, bonus features\n\n<\/li>\n            <li>• \nProgressive jackpots: games with growing prize pools\n\n<\/li>\n            <li>• \nTable games: blackjack, roulette, baccarat and variants\n\n<\/li>\n            <li>• \nVideo poker: fast rounds with clear rules\n\n<\/li>\n\t    <li>• \nLive\/interactive: real-time feel and chat (where available)\n\n<\/li>\n\t    <li>• \nBingo: rooms and event-style draws\n\n<\/li>\n\t    <li>• \nKeno & quick games: short sessions, frequent outcomes\n\n<\/li>\n\t    <li>• \nSports: pre-match, live betting, parlays, and special markets\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting at PlayNow Casino: Minimums & Maximums by Category\n<\/h3>\n\n<p> \nWe support a broad betting range so you can play at your own pace—from small test spins to high-limit decisions on premium tables. Limits vary by specific game, provider, and format (slot, table, live style). We aim to keep entry points accessible while offering strong top-end limits for players who love high intensity. Below is a practical reference table for popular categories.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #4a4a4a;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (standard)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (high-limit)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Progressive jackpots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$250<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (RNG \/ digital)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$2,500<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (RNG \/ digital)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Video poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bingo (card \/ buy-in)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$50<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Keno<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports (single bet)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports (parlay)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$25,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlayNow Casino Tournaments & Leaderboards: How to Join and Win\n<\/h3>\n\n<p>\nWe design tournaments and leaderboards to make entry effortless and progress transparent. Participation is often automatic: simply play eligible games or place bets in the required section during the promo window. Points are awarded based on activity and depend on the event type—slot tournaments may count spins and wager amounts, while sports events may focus on settled bets and odds criteria. We keep mechanics clear: higher engagement and steady pace improve your leaderboard potential. Some events emphasize total stake, others reward round volume or mission completion within limited time.\nWe also run boosters and themed windows where points can earn faster, giving everyone a chance to make a strong push. Your position is visible inside your account, and standings update regularly throughout the event. After the tournament ends, results are finalized and prizes are awarded according to the event rules. Claiming prizes is usually automatic—credited as bonus value or balance credit depending on the format. If a prize is issued as a bonus, we recommend following wagering rules so you can convert winnings smoothly into withdrawable funds.\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick tips:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow to join: play marked games\/sections during the event period\n\n<\/li>\n            <li>• \nHow points are awarded (example):\n<br>\nSlots: 1 point per $1 wagered or per spin (event-specific)\n\n<br>\nSports: points for settled bets, sometimes factoring odds\n\n<\/li>\n            <li>• \nWhat counts: bet size, number of spins\/rounds, activity time, mission completion\n\n<\/li>\n            <li>• \nHow to track rank: leaderboard tab in your account, real-time or interval updates\n\n<\/li>\n\t    <li>• \nHow to claim prizes: automatic credit after the event + profile notification\n\n<\/li>\n\t    <li>• \nHow to boost chances: focus on eligible games, use boosters, play during “hot hours”\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I play for free to practice?",
+                            "answer": "Yes, selected games offer a practice mode, and real-money play starts once you fund your wallet and choose a stake.\n\n\n"
+                        },
+                        {
+                            "title": "Why do you sometimes request additional identity checks?",
+                            "answer": "It’s a standard safeguard for payments and fraud prevention—helping protect your balance and winnings.\n\n\n"
+                        },
+                        {
+                            "title": "What if my bonus doesn’t credit right away?",
+                            "answer": "Check activation requirements (minimum deposit, selected option, timing), and if needed contact live chat for fast help.\n\n\n"
+                        },
+                        {
+                            "title": "Can I set limits for play and deposits?",
+                            "answer": "Yes, we offer responsible-play tools such as limits, session reminders, and time-out mode—you stay in control.\n\n\n"
+                        },
+                        {
+                            "title": "How do betting and transaction history work?",
+                            "answer": "Your profile includes detailed game and payment history so you can track activity and wallet changes easily.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
